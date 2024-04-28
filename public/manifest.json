@@ -49,10 +49,7 @@
   "theme_color": "#282c34",
   "background_color": "#282c34",
   "description": "A PWA markdown editor",
-  "categories": [
-    "productivity",
-    "utilities"
-  ],
+  "categories": ["productivity", "utilities"],
   "shortcuts": [
     {
       "name": "Start in dark mode",
